@@ -1,0 +1,11 @@
+# dependências
+node_modules/
+
+# build
+frontend/dist/
+
+# variáveis de ambiente
+.env
+
+# OS
+.DS_Store
